@@ -26,3 +26,16 @@ Fraud spikes late at night (especially around 10 PM–12 AM) then, when monitori
 
 There’s a noticeable dip during regular working hours (8 AM–5 PM), suggesting that fraudsters exploit off-peak times.
 ![link](Images/Fraudulent_Transactions_per_Hour.png)
+
+### Category-based
+Highest fraud rate: shopping_net — 1.74%, meaning online shopping transactions have the greatest fraud risk.
+
+Lowest fraud rate: home — only 0.12%, suggesting low-risk activity in this category.
+
+Online transactions (shopping_net, grocery_net, misc_net) show notably higher fraud rates than point-of-sale (POS) or in-person transactions.
+This pattern aligns with general fraud trends — digital channels are easier for fraudsters to exploit.
+
+Fraud detection systems should prioritize online merchant monitoring, especially in the shopping-related segments.
+![link](Images/Fraud_Rate_by_Category.png)
+
+### Amount-based
