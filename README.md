@@ -16,7 +16,7 @@ To make the data more structured and realistic for SQL analysis, I normalized th
 # Skills
 Excel: Power Query Editor, data modeling
 
-SQL: CTEs, Joins, Case, Aggregate functions
+SQL: CTEs, Joins, Case, Aggregate functions, Window Functions
 # Executive Summary
 ### Overview of Findings
 
@@ -39,5 +39,14 @@ Fraud detection systems should prioritize online merchant monitoring, especially
 ![link](Images/Fraud_Rate_by_Category.png)
 
 ### Amount-based
+The analysis of the fraud rate reveals a highly skewed risk distribution, where larger transactions have a dramatically higher chance of being fraudulent:
 
+Extreme Risk in High-Value Transactions: The > €500 amount range has an overwhelming 23.91% fraud rate. This means that nearly one out of every four transactions above €500 is fraudulent. This highlights that this range represents a critical, high-risk area requiring the most stringent security measures.
+
+Moderate Risk in Mid-Value Transactions: The €100–500 range presents a moderate but significant risk with a 1.02% fraud rate. This is approximately five to six times higher than the fraud rates of the two lowest ranges, suggesting that fraudsters frequently target this bracket as well.
+
+Very Low Risk in Small Transactions: Both the < €10 and €10–100 ranges have very low and similar fraud rates, at 0.17% and 0.18% respectively. While these ranges contain the vast majority of all transactions (over 400,000 combined), they have the lowest inherent risk of fraud per transaction.
 ![link](Images/Amount.png)
+
+### Location-based 
+
