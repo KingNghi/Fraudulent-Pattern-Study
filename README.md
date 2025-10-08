@@ -19,7 +19,22 @@ Excel: Power Query Editor, data modeling
 SQL: CTEs, Joins, Case, Aggregate functions, Window Functions
 # Executive Summary
 ### Overview of Findings
+- Time-Based Insights:
 
+Fraud peaks late at night (10 PM–12 AM), indicating reduced monitoring.
+Significant drop in fraud incidents during working hours (8 AM–5 PM).
+- Category-Based Insights:
+
+Highest fraud rate in online shopping transactions (1.74%).
+Lowest fraud rate in home transactions (0.12), showcasing lower risk for in-person activities.
+- Amount-Based Insights:
+
+High-value transactions (>€500) have a critical fraud rate of 23.91%.
+Moderate risk in mid-value transactions (€100–500) at 1.02%.
+Very low risk in small transactions (<€100) with rates around 0.17%–0.18%.
+- Location-Based Insights:
+
+Fraud occurs frequently in areas without ZIP codes, suggesting exploitation of location verification gaps.
 # Insights Deep Dive
 ### Time-based
 Fraud spikes late at night (especially around 10 PM–12 AM) then, when monitoring or user activity may be lower — a common pattern in fraud behavior. Then it gradually declines toward dawn till 3 AM.
@@ -50,3 +65,6 @@ Very Low Risk in Small Transactions: Both the < €10 and €10–100 ranges hav
 
 ### Location-based 
 
+Many fraudulent happening in places without zipcode which could indicate that Fraudsters often exploit loopholes in systems that do not adequately verify locations. If fraudulent activities are concentrated in areas with unreliable location data, it’s essential to analyze these trends to identify patterns.
+
+![link](Images/Fraud_location.png)
