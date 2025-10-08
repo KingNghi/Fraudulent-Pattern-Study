@@ -21,4 +21,8 @@ SQL: CTEs, Joins, Case, Aggregate functions
 ### Overview of Findings
 
 # Insights Deep Dive
+### Time-based
+Fraud spikes late at night (especially around 10 PM–12 AM) then, when monitoring or user activity may be lower — a common pattern in fraud behavior. Then it gradually declines toward dawn till 3 AM.
 
+There’s a noticeable dip during regular working hours (8 AM–5 PM), suggesting that fraudsters exploit off-peak times.
+![link](Images/Fraudulent_Transactions_per_Hour.png)
