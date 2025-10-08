@@ -6,9 +6,9 @@ This project focuses on exploring and analyzing fraud patterns using SQL, not pr
 The goal is to understand how fraudulent behaviors differ from normal user behavior in terms of transaction frequency, timing, amount, and merchant characteristics.
 # Data Structure & Initial Checks
 The dataset contains credit card transactions made by European cardholders in September 2013, sourced from Kaggle. 
-Originally, it was provided as a single raw file containing transaction details such as timestamps, amounts, card numbers, merchant information, and fraud labels.
+Originally, it was provided as a single raw file containing transaction details such as timestamps, amounts, card numbers, merchant information, and fraud labels. 
 
-To make the data more structured and realistic for SQL analysis, I normalized the dataset into four related tables, as shown below:
+To make the data more structured and realistic for SQL analysis, I normalized the dataset into four related tables, as shown below: (Because the transaction_info file is too large so i leave a link to google drive here [link](https://drive.google.com/drive/folders/1jhxP1ch6Ckkyw43Nqp5XdZRpwDcY9xgd?usp=sharing)
 ![link](Images/ERD.png)
 # Methodology 
 1. First, I use Excel to normalize the large single file dataset into four related tables. Due to the capacity of excel, I have to reduce the number of rows to half by keeping the the first 500000 rows.
