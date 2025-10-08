@@ -39,3 +39,5 @@ Fraud detection systems should prioritize online merchant monitoring, especially
 ![link](Images/Fraud_Rate_by_Category.png)
 
 ### Amount-based
+
+![link](Images/Amount.png)
