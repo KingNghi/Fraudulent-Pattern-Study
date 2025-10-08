@@ -1,0 +1,694 @@
+﻿merchant_id,merchant,category
+1,"fraud_Rippin, Kub and Mann",misc_net
+2,"fraud_Heller, Gutmann and Zieme",grocery_pos
+3,fraud_Lind-Buckridge,entertainment
+4,"fraud_Kutch, Hermiston and Farrell",gas_transport
+5,fraud_Keeling-Crist,misc_pos
+6,"fraud_Stroman, Hudson and Erdman",gas_transport
+7,fraud_Rowe-Vandervort,grocery_net
+8,fraud_Corwin-Collins,gas_transport
+9,fraud_Herzog Ltd,misc_pos
+10,"fraud_Schoen, Kuphal and Nitzsche",grocery_pos
+11,fraud_Rutherford-Mertz,grocery_pos
+12,fraud_Kerluke-Abshire,shopping_net
+13,fraud_Lockman Ltd,grocery_pos
+14,fraud_Kiehn Inc,grocery_pos
+15,fraud_Beier-Hyatt,shopping_pos
+16,fraud_Schmidt and Sons,shopping_net
+17,fraud_Lebsack and Sons,misc_net
+18,fraud_Mayert Group,shopping_pos
+19,"fraud_Konopelski, Schneider and Hartmann",food_dining
+20,"fraud_Schultz, Simonis and Little",grocery_pos
+21,fraud_Bauch-Raynor,grocery_pos
+22,fraud_Harris Inc,gas_transport
+23,fraud_Kling-Grant,grocery_net
+24,fraud_Pacocha-Bauch,shopping_pos
+25,fraud_Lesch Ltd,shopping_pos
+26,fraud_Kunde-Sanford,misc_net
+27,fraud_Deckow-O'Conner,grocery_pos
+28,fraud_Bruen-Yost,misc_pos
+29,fraud_Kunze Inc,grocery_pos
+30,"fraud_Nitzsche, Kessler and Wolff",shopping_pos
+31,"fraud_Kihn, Abernathy and Douglas",shopping_net
+32,fraud_Torphy-Goyette,shopping_pos
+33,fraud_Balistreri-Nader,misc_pos
+34,"fraud_Bahringer, Schoen and Corkery",shopping_pos
+35,fraud_Hudson-Ratke,grocery_pos
+36,fraud_Heidenreich PLC,grocery_pos
+37,fraud_Halvorson Group,misc_pos
+38,fraud_Harber Inc,gas_transport
+39,"fraud_Mosciski, Gislason and Mertz",grocery_pos
+40,"fraud_Christiansen, Goyette and Schamberger",gas_transport
+41,fraud_Howe Ltd,misc_pos
+42,fraud_Ledner-Pfannerstill,gas_transport
+43,fraud_Koepp-Witting,grocery_pos
+44,fraud_Doyle Ltd,grocery_pos
+45,"fraud_Schaefer, Maggio and Daugherty",gas_transport
+46,fraud_Stracke-Lemke,grocery_pos
+47,"fraud_Mosciski, Ziemann and Farrell",shopping_net
+48,fraud_Cartwright-Harris,grocery_pos
+49,fraud_Pacocha-O'Reilly,grocery_pos
+50,fraud_Pfeffer LLC,grocery_net
+51,fraud_Huels-Hahn,gas_transport
+52,fraud_Volkman PLC,food_dining
+53,fraud_Kiehn-Emmerich,grocery_pos
+54,fraud_Kemmer-Buckridge,misc_pos
+55,fraud_Cummerata-Jones,gas_transport
+56,"fraud_Goldner, Kovacek and Abbott",grocery_pos
+57,fraud_Spinka-Welch,grocery_net
+58,fraud_Huel-Langworth,misc_net
+59,fraud_Macejkovic-Lesch,shopping_pos
+60,fraud_Morar Inc,grocery_net
+61,"fraud_Eichmann, Bogan and Rodriguez",gas_transport
+62,"fraud_Huel, Hammes and Witting",grocery_pos
+63,"fraud_Ferry, Lynch and Kautzer",misc_net
+64,fraud_Heathcote LLC,shopping_net
+65,"fraud_Little, Gutmann and Lynch",shopping_net
+66,fraud_Jaskolski-Dibbert,grocery_net
+67,fraud_Hackett-Lueilwitz,grocery_pos
+68,fraud_Cummings LLC,gas_transport
+69,"fraud_Swaniawski, Lowe and Robel",shopping_pos
+70,"fraud_Osinski, Ledner and Leuschke",grocery_pos
+71,"fraud_Reichert, Huels and Hoppe",shopping_net
+72,fraud_Ankunding LLC,shopping_net
+73,fraud_Pfeffer and Sons,shopping_pos
+74,"fraud_Greenholt, Jacobi and Gleason",gas_transport
+75,"fraud_Connelly, Reichert and Fritsch",gas_transport
+76,fraud_Torp-Labadie,gas_transport
+77,fraud_Wolf Inc,grocery_pos
+78,fraud_VonRueden Group,grocery_net
+79,fraud_Vandervort-Funk,grocery_pos
+80,fraud_Bernhard Inc,gas_transport
+81,"fraud_Morissette, Weber and Wiegand",grocery_net
+82,fraud_Brekke and Sons,gas_transport
+83,fraud_Mraz-Herzog,gas_transport
+84,fraud_Padberg-Welch,grocery_pos
+85,fraud_Kutch-Hegmann,grocery_net
+86,fraud_Corwin-Gorczany,misc_net
+87,fraud_Huels-Nolan,gas_transport
+88,fraud_DuBuque LLC,grocery_pos
+89,fraud_Schmeler Inc,misc_pos
+90,"fraud_Schaefer, McGlynn and Bosco",gas_transport
+91,fraud_Williamson LLC,misc_pos
+92,fraud_Pouros-Conroy,shopping_pos
+93,fraud_Erdman-Kertzmann,gas_transport
+94,fraud_Kuhn LLC,misc_net
+95,fraud_Fisher-Schowalter,shopping_net
+96,fraud_Medhurst PLC,shopping_net
+97,fraud_Kerluke Inc,misc_net
+98,fraud_Stark-Batz,entertainment
+99,"fraud_Gottlieb, Considine and Schultz",shopping_net
+100,"fraud_Adams, Kovacek and Kuhlman",grocery_net
+101,fraud_Grimes LLC,entertainment
+102,fraud_Rodriguez Group,gas_transport
+103,fraud_Wuckert-Walter,grocery_net
+104,fraud_Weber and Sons,food_dining
+105,"fraud_Herman, Treutel and Dickens",misc_net
+106,fraud_Rau and Sons,grocery_pos
+107,fraud_Koss and Sons,gas_transport
+108,fraud_Smitham-Schiller,grocery_net
+109,fraud_Hills-Olson,grocery_net
+110,fraud_Durgan-Auer,misc_net
+111,fraud_McDermott-Rice,misc_pos
+112,"fraud_Raynor, Reinger and Hagenes",gas_transport
+113,fraud_Powlowski-Weimann,food_dining
+114,"fraud_Langosh, Wintheiser and Hyatt",food_dining
+115,"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos
+116,fraud_Rempel Inc,shopping_net
+117,fraud_Bins-Rice,gas_transport
+118,fraud_Emard Inc,gas_transport
+119,fraud_Kutch and Sons,grocery_pos
+120,fraud_Fisher Inc,shopping_net
+121,"fraud_Olson, Becker and Koch",gas_transport
+122,fraud_Friesen-D'Amore,gas_transport
+123,"fraud_Reilly, Heaney and Cole",gas_transport
+124,fraud_Boyer PLC,misc_pos
+125,fraud_Luettgen PLC,gas_transport
+126,fraud_Cassin-Harvey,grocery_net
+127,fraud_Funk Group,grocery_net
+128,fraud_Goodwin-Nitzsche,grocery_pos
+129,"fraud_Parisian, Schiller and Altenwerth",misc_net
+130,fraud_Metz-Boehm,shopping_pos
+131,"fraud_Monahan, Bogisich and Ledner",misc_pos
+132,fraud_Koelpin and Sons,misc_net
+133,fraud_Kuhic LLC,shopping_net
+134,fraud_Koepp-Parker,grocery_pos
+135,"fraud_Stehr, Jewess and Schimmel",misc_net
+136,"fraud_Quitzon, Green and Bashirian",shopping_pos
+137,"fraud_Nicolas, Hills and McGlynn",entertainment
+138,fraud_Leannon-Ward,food_dining
+139,fraud_Friesen-Stamm,gas_transport
+140,fraud_Botsford Ltd,shopping_pos
+141,fraud_Bradtke PLC,grocery_pos
+142,"fraud_Zieme, Bode and Dooley",gas_transport
+143,fraud_Hills-Witting,shopping_net
+144,fraud_Brown-Greenholt,entertainment
+145,"fraud_Bernhard, Grant and Langworth",shopping_pos
+146,"fraud_Wiza, Schaden and Stark",misc_pos
+147,fraud_Buckridge PLC,misc_pos
+148,fraud_Kilback LLC,grocery_pos
+149,fraud_Spinka Inc,grocery_net
+150,"fraud_Kerluke, Kertzmann and Wiza",misc_net
+151,"fraud_Ferry, Reichel and DuBuque",grocery_net
+152,fraud_Price Inc,shopping_net
+153,"fraud_Johnston, Nikolaus and Maggio",grocery_net
+154,fraud_Berge LLC,gas_transport
+155,fraud_Conroy-Cruickshank,gas_transport
+156,fraud_Abshire PLC,entertainment
+157,fraud_Gleason-Macejkovic,shopping_net
+158,fraud_McGlynn-Jaskolski,misc_pos
+159,fraud_Bartoletti-Wunsch,gas_transport
+160,fraud_Cole PLC,grocery_pos
+161,"fraud_Lehner, Reichert and Mills",misc_pos
+162,fraud_McCullough LLC,misc_pos
+163,fraud_Schmitt Ltd,misc_net
+164,fraud_Pouros-Haag,shopping_pos
+165,fraud_Strosin-Cruickshank,grocery_pos
+166,"fraud_Weimann, Kuhic and Beahan",shopping_pos
+167,fraud_Donnelly PLC,misc_net
+168,"fraud_Lockman, West and Runte",grocery_pos
+169,fraud_Torp-Lemke,misc_pos
+170,fraud_Kris-Weimann,misc_net
+171,"fraud_Rodriguez, Yost and Jenkins",misc_net
+172,fraud_Wiegand-Lowe,grocery_net
+173,fraud_Auer-Mosciski,grocery_pos
+174,"fraud_Okuneva, Schneider and Rau",shopping_pos
+175,fraud_Kassulke PLC,shopping_net
+176,fraud_Dach-Nader,misc_net
+177,fraud_Cummings Group,grocery_net
+178,"fraud_Reichert, Shanahan and Hayes",shopping_net
+179,"fraud_Tromp, Kerluke and Glover",grocery_net
+180,"fraud_Bins, Balistreri and Beatty",shopping_pos
+181,fraud_Trantow PLC,grocery_net
+182,fraud_Miller-Hauck,grocery_pos
+183,fraud_Kuvalis Ltd,gas_transport
+184,fraud_Dickinson Ltd,misc_pos
+185,"fraud_Stanton, Jakubowski and Baumbach",shopping_net
+186,"fraud_Rohan, White and Aufderhar",misc_net
+187,"fraud_Cormier, Stracke and Thiel",entertainment
+188,"fraud_Tillman, Fritsch and Schmitt",misc_net
+189,fraud_Christiansen-Gusikowski,misc_pos
+190,"fraud_Jenkins, Hauck and Friesen",gas_transport
+191,fraud_Reichel Inc,entertainment
+192,fraud_Prohaska-Murray,gas_transport
+193,"fraud_Parker, Nolan and Trantow",entertainment
+194,fraud_Volkman Ltd,misc_net
+195,"fraud_Streich, Hansen and Veum",gas_transport
+196,fraud_Kutch LLC,gas_transport
+197,fraud_Barton Inc,grocery_pos
+198,fraud_Dooley-Thompson,misc_net
+199,fraud_Flatley Group,misc_pos
+200,fraud_Turcotte-Halvorson,misc_pos
+201,fraud_Lynch Ltd,shopping_pos
+202,"fraud_Romaguera, Cruickshank and Greenholt",shopping_net
+203,fraud_Gutmann Ltd,grocery_net
+204,fraud_Sporer Inc,gas_transport
+205,fraud_Runolfsson and Sons,grocery_net
+206,fraud_Block Group,misc_pos
+207,fraud_Bahringer-Larson,grocery_net
+208,"fraud_Rowe, Batz and Goodwin",grocery_pos
+209,fraud_Schmitt Inc,gas_transport
+210,fraud_Maggio-Fahey,misc_pos
+211,"fraud_Haley, Jewess and Bechtelar",shopping_pos
+212,"fraud_Ruecker, Beer and Collier",shopping_net
+213,"fraud_Robel, Cummerata and Prosacco",gas_transport
+214,fraud_Jast-McDermott,shopping_pos
+215,"fraud_Bernier, Volkman and Hoeger",misc_net
+216,fraud_Heaney-Marquardt,entertainment
+217,fraud_Hudson-Grady,shopping_pos
+218,"fraud_Towne, Walker and Borer",grocery_net
+219,fraud_Terry-Huel,shopping_net
+220,fraud_Kihn-Fritsch,food_dining
+221,fraud_Eichmann-Russel,misc_pos
+222,fraud_Miller-Harris,misc_net
+223,fraud_Schumm PLC,shopping_net
+224,"fraud_Greenfelder, Bartoletti and Davis",misc_net
+225,"fraud_Kovacek, Dibbert and Ondricka",grocery_pos
+226,fraud_Hermann-Gaylord,misc_pos
+227,fraud_Bailey-Morar,grocery_pos
+228,fraud_McDermott-Weimann,grocery_pos
+229,fraud_Welch Inc,misc_net
+230,fraud_Auer-West,shopping_net
+231,"fraud_Boehm, Predovic and Reinger",misc_pos
+232,fraud_Dibbert and Sons,entertainment
+233,"fraud_Lind, Huel and McClure",gas_transport
+234,"fraud_Casper, Hand and Zulauf",grocery_pos
+235,fraud_McCullough Group,grocery_net
+236,"fraud_Streich, Dietrich and Barton",shopping_net
+237,fraud_O'Keefe-Hudson,grocery_pos
+238,fraud_Pagac LLC,shopping_pos
+239,"fraud_Bernier, Streich and Jewess",grocery_net
+240,"fraud_Greenholt, O'Hara and Balistreri",shopping_net
+241,fraud_Dickinson-Rempel,misc_pos
+242,fraud_Dare-Marvin,entertainment
+243,fraud_Spencer PLC,entertainment
+244,fraud_Stamm-Rodriguez,misc_pos
+245,"fraud_Langworth, Boehm and Gulgowski",shopping_net
+246,"fraud_Larkin, Stracke and Greenfelder",entertainment
+247,"fraud_Yost, Block and Koepp",misc_pos
+248,"fraud_Douglas, Schneider and Turner",shopping_pos
+249,fraud_Kuphal-Predovic,misc_net
+250,fraud_Parisian and Sons,gas_transport
+251,fraud_Flatley-Durgan,misc_net
+252,fraud_Gislason Group,misc_pos
+253,fraud_Bednar Group,misc_net
+254,fraud_Heller-Langosh,gas_transport
+255,fraud_Zboncak Ltd,food_dining
+256,fraud_Gerlach Inc,shopping_net
+257,fraud_Wilkinson Ltd,entertainment
+258,"fraud_Moen, Reinger and Murphy",grocery_pos
+259,"fraud_Kerluke, Considine and Macejkovic",misc_net
+260,fraud_Upton PLC,entertainment
+261,fraud_Bogisich Inc,grocery_pos
+262,fraud_Marks Inc,gas_transport
+263,fraud_Murray-Smitham,grocery_pos
+264,fraud_Frami Group,entertainment
+265,fraud_Ortiz Group,grocery_net
+266,fraud_Goldner-Lemke,entertainment
+267,fraud_Hickle Group,shopping_pos
+268,fraud_Conroy Ltd,shopping_pos
+269,"fraud_Schumm, Bauch and Ondricka",grocery_pos
+270,fraud_McGlynn-Heathcote,misc_net
+271,fraud_Herman Inc,misc_pos
+272,fraud_Gutmann-Upton,misc_pos
+273,fraud_Volkman-Predovic,shopping_net
+274,"fraud_Wintheiser, Dietrich and Schimmel",misc_pos
+275,"fraud_Raynor, Feest and Miller",gas_transport
+276,fraud_Bogisich-Homenick,misc_net
+277,fraud_Jast and Sons,food_dining
+278,"fraud_Baumbach, Strosin and Nicolas",shopping_pos
+279,"fraud_Towne, Greenholt and Koepp",shopping_net
+280,fraud_Schamberger-O'Keefe,grocery_pos
+281,fraud_Nienow PLC,entertainment
+282,fraud_Emmerich-Luettgen,grocery_net
+283,fraud_Mante Group,misc_net
+284,"fraud_Baumbach, Feeney and Morar",shopping_net
+285,fraud_Thiel PLC,misc_pos
+286,fraud_Mohr Inc,shopping_pos
+287,"fraud_Hagenes, Kohler and Hoppe",food_dining
+288,fraud_Block-Parisian,misc_net
+289,fraud_Dooley Inc,shopping_pos
+290,fraud_Bashirian Group,shopping_net
+291,"fraud_Cremin, Hamill and Reichel",misc_pos
+292,fraud_Sawayn PLC,shopping_pos
+293,fraud_Jewess LLC,shopping_pos
+294,fraud_Roberts-Beahan,misc_pos
+295,fraud_Brown PLC,misc_net
+296,"fraud_Tillman, Dickinson and Labadie",gas_transport
+297,"fraud_Reichert, Rowe and Mraz",shopping_net
+298,fraud_Kilback Group,food_dining
+299,fraud_Spencer-Runolfsson,misc_pos
+300,"fraud_Labadie, Treutel and Bode",shopping_net
+301,fraud_Dach-Borer,grocery_net
+302,"fraud_Johnson, Runolfsdottir and Mayer",misc_net
+303,fraud_Smitham-Boehm,grocery_net
+304,"fraud_Moore, Dibbert and Koepp",misc_net
+305,fraud_Hamill-Daugherty,misc_net
+306,"fraud_Watsica, Haag and Considine",shopping_pos
+307,fraud_Smith-Stokes,misc_pos
+308,"fraud_Kuhic, Bins and Pfeffer",shopping_net
+309,fraud_Nader-Heller,misc_net
+310,fraud_Kozey-Boehm,shopping_net
+311,fraud_Stiedemann Inc,misc_pos
+312,"fraud_Lehner, Mosciski and King",misc_net
+313,fraud_Reynolds-Schinner,misc_pos
+314,"fraud_Koss, McLaughlin and Mayer",food_dining
+315,"fraud_Terry, Johns and Bins",misc_pos
+316,fraud_Kemmer-Reinger,grocery_net
+317,fraud_Larson-Moen,entertainment
+318,fraud_Kuhic Inc,grocery_pos
+319,fraud_Kris-Padberg,shopping_pos
+320,"fraud_Schmeler, Bashirian and Price",shopping_net
+321,fraud_Klocko LLC,misc_net
+322,"fraud_Schaefer, Fay and Hilll",entertainment
+323,fraud_Kling Inc,gas_transport
+324,fraud_Turner and Sons,shopping_pos
+325,fraud_Mohr-Bayer,shopping_net
+326,fraud_Wiza LLC,misc_pos
+327,fraud_Skiles-Ankunding,grocery_net
+328,fraud_Jaskolski-Vandervort,misc_net
+329,fraud_Kerluke PLC,misc_net
+330,fraud_Ernser-Lynch,food_dining
+331,"fraud_Zboncak, Rowe and Murazik",shopping_net
+332,fraud_Stoltenberg-Beatty,shopping_pos
+333,fraud_Kuphal-Bartoletti,misc_net
+334,fraud_Rempel PLC,grocery_net
+335,fraud_Denesik and Sons,shopping_pos
+336,fraud_Goyette Inc,shopping_net
+337,fraud_Dicki Ltd,grocery_net
+338,"fraud_Stokes, Christiansen and Sipes",grocery_net
+339,fraud_Hermann and Sons,shopping_pos
+340,fraud_Gibson-Deckow,entertainment
+341,fraud_Douglas-White,entertainment
+342,fraud_Murray Ltd,grocery_net
+343,fraud_McKenzie-Huels,food_dining
+344,fraud_Runte-Mohr,food_dining
+345,"fraud_Roob, Conn and Tremblay",shopping_pos
+346,fraud_Boyer-Reichert,shopping_net
+347,fraud_Shanahan-Lehner,personal_care
+348,fraud_Greenholt Ltd,health_fitness
+349,fraud_Kulas Group,health_fitness
+350,"fraud_Dare, Fritsch and Zboncak",health_fitness
+351,fraud_Waters-Cruickshank,health_fitness
+352,"fraud_Kunze, Larkin and Mayert",travel
+353,fraud_Bednar Inc,travel
+354,fraud_Schimmel-Olson,kids_pets
+355,"fraud_Lubowitz, Terry and Stracke",personal_care
+356,fraud_Schoen-Quigley,kids_pets
+357,fraud_Kihn-Schuster,food_dining
+358,fraud_Padberg-Rogahn,entertainment
+359,fraud_Lynch-Mohr,travel
+360,fraud_Hilpert-Conroy,kids_pets
+361,fraud_Jacobi Inc,health_fitness
+362,"fraud_Berge, Kautzer and Harris",personal_care
+363,fraud_Hammes-Beatty,kids_pets
+364,fraud_Gulgowski LLC,home
+365,"fraud_Schuppe, Nolan and Hoeger",shopping_pos
+366,fraud_Pollich LLC,home
+367,fraud_Bernier and Sons,kids_pets
+368,fraud_Wilkinson PLC,kids_pets
+369,fraud_Kling-Ernser,entertainment
+370,"fraud_O'Connell, Botsford and Hand",home
+371,fraud_Little-Gleichner,travel
+372,fraud_Champlin and Sons,home
+373,fraud_Hoppe-Parisian,kids_pets
+374,fraud_Schuppe LLC,entertainment
+375,fraud_Emmerich-Rau,personal_care
+376,fraud_Beier LLC,entertainment
+377,fraud_Champlin-Casper,home
+378,fraud_Gerhold LLC,home
+379,fraud_Renner Ltd,home
+380,fraud_Gaylord-Powlowski,home
+381,"fraud_Prosacco, Kreiger and Kovacek",home
+382,fraud_Eichmann-Kilback,home
+383,fraud_O'Hara-Wilderman,food_dining
+384,fraud_Terry Ltd,home
+385,fraud_Beier and Sons,home
+386,fraud_O'Keefe-Wisoky,food_dining
+387,fraud_Simonis-Prohaska,misc_pos
+388,fraud_Breitenberg-Hermiston,kids_pets
+389,fraud_Brown Inc,kids_pets
+390,fraud_Fahey Inc,kids_pets
+391,"fraud_Boehm, Block and Jakubowski",misc_pos
+392,"fraud_Mante, Luettgen and Hackett",health_fitness
+393,fraud_Thompson-Gleason,health_fitness
+394,"fraud_Turcotte, Batz and Buckridge",health_fitness
+395,"fraud_Goyette, Howell and Collier",shopping_pos
+396,"fraud_Jones, Sawayn and Romaguera",misc_net
+397,fraud_Medhurst Inc,home
+398,fraud_Bode-Schuster,kids_pets
+399,fraud_Connelly-Carter,home
+400,fraud_Gottlieb-Hansen,personal_care
+401,"fraud_Schroeder, Wolff and Hermiston",travel
+402,"fraud_Hettinger, McCullough and Fay",home
+403,"fraud_Pouros, Walker and Spencer",kids_pets
+404,fraud_Kub PLC,personal_care
+405,fraud_Watsica LLC,personal_care
+406,fraud_Stiedemann Ltd,food_dining
+407,"fraud_Hauck, Dietrich and Funk",kids_pets
+408,fraud_Labadie LLC,personal_care
+409,fraud_Friesen Inc,shopping_pos
+410,"fraud_Crist, Jakubowski and Littel",home
+411,"fraud_Hodkiewicz, Prohaska and Paucek",travel
+412,"fraud_McDermott, Osinski and Morar",home
+413,fraud_Fritsch and Sons,health_fitness
+414,"fraud_Swaniawski, Nitzsche and Welch",health_fitness
+415,"fraud_Windler, Goodwin and Kovacek",home
+416,"fraud_Yost, Schamberger and Windler",kids_pets
+417,"fraud_Metz, Russel and Metz",kids_pets
+418,fraud_Erdman-Durgan,health_fitness
+419,"fraud_Bahringer, Bergnaum and Quitzon",home
+420,fraud_Veum-Koelpin,travel
+421,"fraud_Becker, Harris and Harvey",personal_care
+422,fraud_Monahan-Morar,personal_care
+423,fraud_Johns Inc,entertainment
+424,fraud_Mosciski Group,travel
+425,fraud_Abbott-Steuber,personal_care
+426,fraud_Schaefer Ltd,kids_pets
+427,fraud_Dibbert-Green,entertainment
+428,fraud_Weimann-Lockman,kids_pets
+429,fraud_Kub-Heaney,health_fitness
+430,fraud_Zulauf LLC,personal_care
+431,fraud_Ratke and Sons,health_fitness
+432,fraud_Jakubowski Inc,home
+433,fraud_Beer-Jast,kids_pets
+434,fraud_Kautzer and Sons,personal_care
+435,fraud_Feil-Morar,health_fitness
+436,fraud_Johnston-Casper,travel
+437,"fraud_Medhurst, Labadie and Gottlieb",travel
+438,"fraud_Lesch, D'Amore and Brown",food_dining
+439,fraud_Botsford PLC,home
+440,fraud_Bins-Howell,personal_care
+441,fraud_Kihn Inc,shopping_pos
+442,"fraud_Hartmann, Rowe and Hermann",travel
+443,fraud_Towne LLC,misc_pos
+444,fraud_Lynch-Wisozk,home
+445,fraud_Kutch-Ferry,home
+446,fraud_Goyette-Gerhold,kids_pets
+447,"fraud_Bradtke, Torp and Bahringer",personal_care
+448,fraud_Homenick LLC,personal_care
+449,"fraud_Zemlak, Tillman and Cremin",personal_care
+450,"fraud_Schneider, Hayes and Nikolaus",food_dining
+451,"fraud_Schumm, McLaughlin and Carter",food_dining
+452,fraud_Nader-Maggio,personal_care
+453,"fraud_Haley, Batz and Auer",health_fitness
+454,fraud_Yost-Rogahn,personal_care
+455,"fraud_Schoen, Nienow and Bauch",personal_care
+456,"fraud_Ledner, Hartmann and Feest",health_fitness
+457,fraud_Collier LLC,home
+458,fraud_Schuppe-Schuppe,food_dining
+459,"fraud_Walter, Hettinger and Kessler",personal_care
+460,fraud_Bechtelar-Rippin,food_dining
+461,fraud_Hamill-D'Amore,health_fitness
+462,fraud_Swift PLC,kids_pets
+463,"fraud_Cronin, Kshlerin and Weber",health_fitness
+464,"fraud_Romaguera, Wehner and Tromp",kids_pets
+465,"fraud_Feil, Hilpert and Koss",food_dining
+466,fraud_White and Sons,home
+467,"fraud_Mueller, Gerhold and Mueller",health_fitness
+468,fraud_Botsford and Sons,home
+469,fraud_Kirlin and Sons,personal_care
+470,fraud_Bednar PLC,kids_pets
+471,"fraud_Runolfsdottir, Mueller and Hand",entertainment
+472,fraud_Kuphal-Toy,food_dining
+473,fraud_Bahringer-Streich,food_dining
+474,"fraud_Wuckert, Wintheiser and Friesen",home
+475,fraud_Crona and Sons,kids_pets
+476,fraud_Prosacco LLC,personal_care
+477,fraud_Schiller Ltd,personal_care
+478,fraud_Waelchi-Wolf,kids_pets
+479,fraud_Torphy-Kertzmann,health_fitness
+480,"fraud_McCullough, Hudson and Schuster",food_dining
+481,fraud_Baumbach Ltd,personal_care
+482,"fraud_Schiller, Blanda and Johnson",home
+483,fraud_Cartwright PLC,kids_pets
+484,fraud_Reilly LLC,home
+485,fraud_Cruickshank-Mills,entertainment
+486,"fraud_Altenwerth, Cartwright and Koss",shopping_net
+487,"fraud_Effertz, Welch and Schowalter",entertainment
+488,"fraud_Klocko, Runolfsdottir and Breitenberg",health_fitness
+489,fraud_Ruecker-Mayert,kids_pets
+490,"fraud_Schroeder, Hauck and Treutel",entertainment
+491,fraud_Lemke-Gutmann,shopping_net
+492,"fraud_Graham, Hegmann and Hammes",food_dining
+493,fraud_Reilly and Sons,health_fitness
+494,fraud_Stark-Koss,home
+495,fraud_Daugherty LLC,kids_pets
+496,"fraud_Denesik, Powlowski and Pouros",home
+497,fraud_Rippin-VonRueden,health_fitness
+498,fraud_Heller PLC,health_fitness
+499,fraud_Hills-Boyer,personal_care
+500,fraud_Cormier LLC,shopping_net
+501,fraud_Erdman-Ebert,personal_care
+502,fraud_Bogisich-Weimann,kids_pets
+503,"fraud_Gutmann, McLaughlin and Wiza",home
+504,fraud_Little Ltd,kids_pets
+505,fraud_Bode-Rempel,kids_pets
+506,"fraud_Kutch, Steuber and Gerhold",food_dining
+507,fraud_Kessler Inc,travel
+508,fraud_Deckow-Dare,food_dining
+509,fraud_Rolfson-Kunde,personal_care
+510,fraud_Marvin-Lind,personal_care
+511,fraud_Barrows PLC,shopping_pos
+512,fraud_Abbott-Rogahn,entertainment
+513,fraud_Ziemann-Waters,health_fitness
+514,"fraud_Reinger, Weissnat and Strosin",food_dining
+515,"fraud_Heathcote, Yost and Kertzmann",shopping_net
+516,fraud_Will Ltd,food_dining
+517,fraud_Kutch-Wilderman,home
+518,"fraud_Hermiston, Russel and Price",food_dining
+519,fraud_Schmidt-Larkin,home
+520,"fraud_Lang, Towne and Schuppe",kids_pets
+521,"fraud_Weber, Thiel and Hammes",kids_pets
+522,"fraud_Hahn, Bahringer and McLaughlin",personal_care
+523,"fraud_Koss, Hansen and Lueilwitz",home
+524,"fraud_Roberts, Ryan and Smith",personal_care
+525,"fraud_Hintz, Bauch and Smith",health_fitness
+526,"fraud_Monahan, Hermann and Johns",travel
+527,"fraud_Bahringer, Osinski and Block",food_dining
+528,"fraud_Douglas, DuBuque and McKenzie",travel
+529,fraud_Hackett Group,travel
+530,fraud_Schmeler-Howe,personal_care
+531,fraud_Predovic Inc,shopping_net
+532,fraud_Langworth LLC,personal_care
+533,fraud_Bartoletti and Sons,personal_care
+534,fraud_Bernhard-Lesch,food_dining
+535,fraud_Satterfield-Lowe,travel
+536,"fraud_Runte, Green and Emard",health_fitness
+537,"fraud_Lowe, Dietrich and Erdman",kids_pets
+538,fraud_Jast Ltd,shopping_net
+539,"fraud_Welch, Rath and Koepp",entertainment
+540,fraud_Skiles LLC,home
+541,fraud_Ernser-Feest,home
+542,fraud_Klein Group,entertainment
+543,"fraud_Torp, Muller and Borer",health_fitness
+544,fraud_Kuhn Group,food_dining
+545,"fraud_Streich, Rolfson and Wilderman",kids_pets
+546,fraud_Bins-Tillman,entertainment
+547,fraud_Ankunding-Carroll,travel
+548,"fraud_Hahn, Douglas and Schowalter",travel
+549,"fraud_Witting, Beer and Ernser",home
+550,fraud_Morissette LLC,entertainment
+551,fraud_Berge-Hills,kids_pets
+552,fraud_Donnelly LLC,entertainment
+553,fraud_Zboncak LLC,food_dining
+554,"fraud_Turner, Ziemann and Lehner",food_dining
+555,fraud_Padberg-Sauer,home
+556,fraud_Schulist Ltd,food_dining
+557,fraud_Rau-Grant,kids_pets
+558,fraud_Osinski Inc,personal_care
+559,fraud_Berge-Ullrich,home
+560,fraud_Wuckert-Goldner,home
+561,fraud_Kertzmann LLC,health_fitness
+562,"fraud_Daugherty, Pouros and Beahan",shopping_pos
+563,"fraud_Armstrong, Walter and Gottlieb",food_dining
+564,fraud_Conroy-Emard,food_dining
+565,"fraud_Moore, Williamson and Emmerich",home
+566,fraud_Gleason and Sons,kids_pets
+567,"fraud_Roberts, Daniel and Macejkovic",kids_pets
+568,fraud_Turner LLC,travel
+569,fraud_Crooks and Sons,personal_care
+570,fraud_Waelchi Inc,kids_pets
+571,"fraud_Hoppe, Harris and Bednar",entertainment
+572,fraud_Effertz LLC,entertainment
+573,fraud_Lubowitz-Walter,kids_pets
+574,fraud_Hyatt-Blick,travel
+575,fraud_Carroll PLC,health_fitness
+576,fraud_Lemke and Sons,travel
+577,fraud_Treutel-King,travel
+578,fraud_Fadel-Hilpert,health_fitness
+579,fraud_Altenwerth-Kilback,home
+580,fraud_Bauch-Blanda,entertainment
+581,fraud_Sporer-Keebler,personal_care
+582,fraud_Hirthe-Beier,health_fitness
+583,fraud_Wisozk and Sons,misc_pos
+584,fraud_Streich Ltd,home
+585,fraud_Schoen Ltd,kids_pets
+586,fraud_Windler LLC,kids_pets
+587,fraud_Nolan-Williamson,kids_pets
+588,fraud_Roob-Okuneva,health_fitness
+589,"fraud_Lakin, Ferry and Beatty",food_dining
+590,fraud_Gottlieb Group,kids_pets
+591,fraud_Harris Group,food_dining
+592,fraud_Fritsch LLC,travel
+593,fraud_Corwin-Romaguera,travel
+594,fraud_Dietrich-Fadel,health_fitness
+595,"fraud_Kling, Howe and Schneider",home
+596,fraud_Kozey-Kuhlman,personal_care
+597,fraud_Graham and Sons,health_fitness
+598,fraud_Jacobi and Sons,shopping_pos
+599,"fraud_Eichmann, Hayes and Treutel",travel
+600,"fraud_Brown, Homenick and Lesch",health_fitness
+601,fraud_Erdman-Schaden,personal_care
+602,"fraud_Durgan, Gislason and Spencer",home
+603,fraud_Friesen-Ortiz,personal_care
+604,fraud_Morissette-Schaefer,personal_care
+605,"fraud_Nienow, Ankunding and Collier",misc_pos
+606,"fraud_Cole, Hills and Jewess",home
+607,"fraud_Conroy, Balistreri and Gorczany",health_fitness
+608,"fraud_Reichel, Bradtke and Blanda",travel
+609,"fraud_O'Reilly, Mohr and Purdy",home
+610,fraud_Ullrich Ltd,kids_pets
+611,fraud_Schroeder Group,health_fitness
+612,fraud_Boyer-Haley,travel
+613,"fraud_Dare, Casper and Bartoletti",kids_pets
+614,"fraud_Medhurst, Cartwright and Ebert",personal_care
+615,fraud_Quitzon-Goyette,home
+616,fraud_Wilkinson LLC,personal_care
+617,fraud_Romaguera and Sons,travel
+618,fraud_Larkin Ltd,kids_pets
+619,"fraud_Fadel, Mertz and Rippin",entertainment
+620,fraud_Huel Ltd,misc_net
+621,fraud_Cummerata-Hilpert,entertainment
+622,fraud_Zemlak Group,misc_net
+623,fraud_Dare-Gibson,health_fitness
+624,fraud_Adams-Barrows,health_fitness
+625,fraud_Block-Hauck,travel
+626,fraud_Howe PLC,entertainment
+627,fraud_Leffler-Goldner,personal_care
+628,fraud_Tillman LLC,travel
+629,fraud_Pacocha-Weissnat,kids_pets
+630,fraud_Morissette PLC,shopping_pos
+631,fraud_Jerde-Hermann,travel
+632,"fraud_Kihn, Brakus and Goyette",personal_care
+633,"fraud_Hills, Hegmann and Schaefer",health_fitness
+634,fraud_Friesen Ltd,health_fitness
+635,fraud_Kilback and Sons,entertainment
+636,fraud_Ebert-Daugherty,travel
+637,"fraud_Hermiston, Pacocha and Smith",health_fitness
+638,fraud_Auer LLC,personal_care
+639,fraud_Fadel Inc,health_fitness
+640,fraud_Daugherty-Thompson,food_dining
+641,fraud_Romaguera Ltd,health_fitness
+642,fraud_Parker-Kunde,personal_care
+643,fraud_Barton LLC,kids_pets
+644,fraud_Kassulke Inc,entertainment
+645,"fraud_McLaughlin, Armstrong and Koepp",travel
+646,fraud_Abernathy and Sons,food_dining
+647,fraud_Bahringer Group,health_fitness
+648,fraud_Connelly PLC,food_dining
+649,"fraud_Willms, Kris and Bergnaum",shopping_pos
+650,fraud_Thiel Ltd,travel
+651,fraud_Kris-Kertzmann,travel
+652,fraud_O'Connell-Ullrich,home
+653,fraud_Kozey-McDermott,travel
+654,fraud_Reichel LLC,personal_care
+655,fraud_Thiel-Thiel,entertainment
+656,fraud_Rau-Robel,kids_pets
+657,fraud_Haley Group,misc_pos
+658,"fraud_Turcotte, McKenzie and Koss",entertainment
+659,fraud_Stamm-Witting,shopping_net
+660,"fraud_Ritchie, Bradtke and Stiedemann",travel
+661,"fraud_Nienow, Barrows and Romaguera",personal_care
+662,fraud_Shields-Wunsch,health_fitness
+663,fraud_Goyette-Herzog,travel
+664,fraud_Shields Inc,grocery_net
+665,"fraud_Hayes, Marquardt and Dibbert",misc_net
+666,"fraud_Swaniawski, Bahringer and Ledner",grocery_net
+667,fraud_Roob LLC,grocery_net
+668,"fraud_Rutherford, Homenick and Bergstrom",grocery_net
+669,"fraud_Harris, Gusikowski and Heaney",grocery_net
+670,fraud_Hintz-Bruen,grocery_net
+671,"fraud_Turner, Ruecker and Parisian",misc_pos
+672,fraud_Ruecker Group,misc_net
+673,fraud_Johns-Hoeger,entertainment
+674,"fraud_Ritchie, Oberbrunner and Cremin",travel
+675,fraud_Haag-Blanda,food_dining
+676,"fraud_Hagenes, Hermann and Stroman",travel
+677,fraud_Reichert-Weissnat,travel
+678,"fraud_Hyatt, Russel and Gleichner",health_fitness
+679,"fraud_Champlin, Rolfson and Connelly",travel
+680,fraud_Leannon-Nikolaus,travel
+681,fraud_Tromp Group,travel
+682,fraud_Kovacek Ltd,travel
+683,fraud_Kutch Group,grocery_net
+684,"fraud_Kohler, Lindgren and Koelpin",grocery_net
+685,fraud_Heller-Abshire,grocery_net
+686,"fraud_Swift, Bradtke and Marquardt",grocery_net
+687,"fraud_Larson, Quitzon and Spencer",travel
+688,"fraud_Kilback, Nitzsche and Leffler",travel
+689,fraud_Jakubowski Group,food_dining
+690,fraud_Breitenberg LLC,travel
+691,fraud_Collier Inc,grocery_net
+692,fraud_Paucek-Wiza,grocery_net
+693,fraud_Kessler Group,travel
