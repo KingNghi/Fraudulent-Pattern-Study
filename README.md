@@ -63,8 +63,16 @@ Moderate Risk in Mid-Value Transactions: The €100–500 range presents a moder
 Very Low Risk in Small Transactions: Both the < €10 and €10–100 ranges have very low and similar fraud rates, at 0.17% and 0.18% respectively. While these ranges contain the vast majority of all transactions (over 400,000 combined), they have the lowest inherent risk of fraud per transaction.
 ![link](Images/Amount.png)
 
+
+
 ### Location-based 
 
 Many fraudulent happening in places without zipcode which could indicate that Fraudsters often exploit loopholes in systems that do not adequately verify locations. If fraudulent activities are concentrated in areas with unreliable location data, it’s essential to analyze these trends to identify patterns.
 
 ![link](Images/Fraud_location.png)
+# Limitation and Recommendation
+### Limitations
+One key limitation of this project lies in the available dataset. The dataset only provides merchant location details through latitude, longitude, and ZIP code, without explicit information on the country or city. This restricts the ability to accurately analyze cross-border transactions, which could be an important indicator of potential fraudulent activity. Additionally, without proper geographic reference, it becomes challenging to detect patterns involving international transactions or regional fraud trends.
+
+### Recommendations
+To overcome these limitations, it is recommended to integrate external geolocation APIs (such as Google Maps API, OpenCage Geocoder, or Geoapify) to retrieve country and city names based on the existing latitude, longitude, or ZIP code values. This enhancement would allow for deeper geographic analysis—such as detecting cross-country transactions, location anomalies, or unusual merchant–customer distances.
